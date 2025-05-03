@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript" alt="TypeScript" />
     <img src="https://img.shields.io/badge/-Zustand-000?style=for-the-badge" alt="Zustand" />
   </div>
-  <h3 align="center">Build a Beautiful, Modern Landing Page for Your AI SaaS</h3>
+  <h3 align="">Build a Beautiful, Modern Landing Page for Your AI SaaS</h3>
   <div align="center">
   </div>
   <br />
