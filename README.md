@@ -1,6 +1,6 @@
 # NovaMind AI SaaS Landing Page 
 
-<div align="center">
+<div align="">
   <div>
     <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
     <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS" />
@@ -20,8 +20,7 @@
 2. [Tech Stack](#tech-stack)
 3. [Features](#features)
 4. [Quick Start](#quick-start)
-5. [Code Snippets](#code-snippets)
-6. [Assets & More](#assets--more)
+5. [Assets & More](#assets--more)
 
 ## 🚀 Introduction
 
